@@ -10,7 +10,7 @@ You need to install python 3.10. There are also several libraries installed. Pyt
 
 Here we present main structure of python files
 ## MODEL
- In model folder we have Learning algorithm UBAL for fully connected version and convolutional version written in pytorch library. _UBAL_torch.py_ is model for normal fully-connected UBAL,  _conv_UBAL_torch.py_ is for convolutional layers and conv_autoencoder_UBAL_TORCH.py is specifically for autoencoder.
+ In model folder we have Learning algorithm UBAL for fully connected version and convolutional version written in pytorch library. _UBAL_torch.py_ is model for normal fully-connected UBAL,  _conv_UBAL_torch.py_ is for convolutional layers and _conv_autoencoder_UBAL_rorch.py_ is specifically for autoencoder.
  
 ## exp_encoder
 In this folder the convolutional autoencoder is implemented. The autoencoder file has an experiment with MNIST dataset.
