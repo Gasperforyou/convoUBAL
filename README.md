@@ -9,7 +9,7 @@ This project is part of **Biologically motivated learning in neural networks wit
 You need to install python 3.10. There are also several libraries installed. Pytorch 1.13.1, matplotlib, numpy 1.24.1, torchvision 0.14.1
 
 Here we present main structure of python files
-## MODEL
+## model
  In model folder we have Learning algorithm UBAL for fully connected version and convolutional version written in pytorch library. _UBAL_torch.py_ is model for normal fully-connected UBAL,  _conv_UBAL_torch.py_ is for convolutional layers and _conv_autoencoder_UBAL_torch.py_ is specifically for autoencoder.
  
 ## exp_encoder
