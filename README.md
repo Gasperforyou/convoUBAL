@@ -5,7 +5,7 @@ Here we present convolutional UBAL (Universal Bidirectional Activation-based Lea
 
 This project is part of **Biologically motivated learning in neural networks with convolutional architectures** Master Thesis.
 
-## Instalation
+## Installation
 You need to install python 3.10. There are also several libraries installed. Pytorch 1.13.1, matplotlib, numpy 1.24.1, torchvision 0.14.1
 
 Here we present main structure of python files
